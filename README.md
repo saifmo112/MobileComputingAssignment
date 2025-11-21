@@ -10,8 +10,8 @@ This is my mobile computing assignment.
 - Repo link: https://github.com/saifmo112/MobileComputingAssignment
 -
           student name                       ID
-  
-    Saif eldien mohamed taha              20201700385
-    Ziad Ahmed Mohamed El-Feqqy           20211700667
-    Ahmed Zein El-A'bdeen Abbass          20201700042
-    Ahmed Khalid Morsy Mokhtar            20201700037                    
+-  
+-    Saif eldien mohamed taha              20201700385
+ -   Ziad Ahmed Mohamed El-Feqqy           20211700667
+  -  Ahmed Zein El-A'bdeen Abbass          20201700042
+   - Ahmed Khalid Morsy Mokhtar            20201700037                    

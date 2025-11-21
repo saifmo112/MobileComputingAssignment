@@ -6,6 +6,7 @@ import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.view.MenuProvider
 import androidx.lifecycle.ViewModelProvider
 import com.saif.mobilecomputingassignment.data.Flashcard
 import com.saif.mobilecomputingassignment.databinding.ActivityQuizBinding
@@ -93,5 +94,13 @@ class QuizActivity : AppCompatActivity() {
             binding.tvAnswer.visibility = View.GONE
             binding.btnShowAnswer.text = "Show Answer"
         }
+    }
+
+    override fun addMenuProvider(
+        p0: MenuProvider,
+        p1: androidx.lifecycle.LifecycleOwner,
+        p2: androidx.lifecycle.Lifecycle.State
+    ) {
+        TODO("Not yet implemented")
     }
 }

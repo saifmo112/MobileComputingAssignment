@@ -6,13 +6,13 @@ plugins {
 
 android {
     namespace = "com.saif.mobilecomputingassignment"
-    compileSdk = 36
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.saif.mobilecomputingassignment"
         minSdk = 24
         //noinspection EditedTargetSdkVersion,OldTargetApi
-        targetSdk = 36
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
     }

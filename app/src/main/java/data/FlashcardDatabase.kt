@@ -1,4 +1,4 @@
-package com.saif.mobilecomputingassignment
+package com.saif.mobilecomputingassignment.data
 
 import android.content.Context
 import androidx.room.Database

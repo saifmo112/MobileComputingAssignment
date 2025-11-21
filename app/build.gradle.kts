@@ -1,8 +1,4 @@
-git add .
-git commit -m "simple flashcards app: room + add + quiz"
-git push origin main
-        ./gradlew clean
-    ./gradlew assembleDebug
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)

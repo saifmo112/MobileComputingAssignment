@@ -1,4 +1,3 @@
-// build.gradle.kts (Module: app)
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
@@ -6,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.saif.flashcards"
+    namespace = "com.saif.mobilecomputingassignment"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.saif.flashcards"
+        applicationId = "com.saif.mobilecomputingassignment"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

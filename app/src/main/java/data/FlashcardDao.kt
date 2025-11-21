@@ -1,4 +1,4 @@
-package com.saif.mobilecomputingassignment
+package com.saif.mobilecomputingassignment.data
 
 import androidx.room.Dao
 import androidx.room.Insert

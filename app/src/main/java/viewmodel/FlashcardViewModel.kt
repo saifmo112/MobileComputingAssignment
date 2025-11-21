@@ -1,11 +1,10 @@
-package com.saif.mobilecomputingassignment
-
+package com.saif.mobilecomputingassignment.viewmodel
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.flashcards.data.Flashcard
-import com.example.flashcards.data.FlashcardDatabase
+import com.saif.mobilecomputingassignment.data.Flashcard
+import com.saif.mobilecomputingassignment.data.FlashcardDatabase
 import kotlinx.coroutines.launch
 
 class FlashcardViewModel(application: Application) : AndroidViewModel(application) {
